@@ -48,7 +48,7 @@ Exércitos da maioria dos países estão estruturados como hierarquias. Um exér
   
   Ao receber um pedido, um contêiner delega o trabalho para seus sub-elementos, processa os resultados intermediários, e então retorna o resultado final para o cliente.
 
-##### Bora ver na prática? Clique [aqui](TODO) para ir ver a pasta do código 💻.
+##### Bora ver na prática? Clique [aqui](https://github.com/GustavoSTZ/composite-pattern/tree/main/src/main/java/com/gustavostz/composite) para ir ver a pasta do código 💻.
 
 ### 👍Prós e contras👎
 
@@ -70,7 +70,7 @@ Pré-requisito: Java 8+
 git clone https://github.com/GustavoSTZ/composite-pattern.git
 ```
 
-###Referência:
+### Referência:
 [![Referencia](imgs/refactoring_guru.png "Refactoring Guru")](https://refactoring.guru/design-patterns/composite)
 
 Da uma olhada na fonte original 😉
