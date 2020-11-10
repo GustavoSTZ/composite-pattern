@@ -28,7 +28,7 @@ O maior benefício dessa abordagem é que você não precisa se preocupar sobre 
 
 ###  Analogia com o mundo real 🌍
 
-![exemplo de uma estrutura militar](imgs/composite-comic.png "Um exemplo de uma estrutura militar.") 
+![exemplo de uma estrutura militar](imgs/composite-live-example.png "Um exemplo de uma estrutura militar.") 
 
 Exércitos da maioria dos países estão estruturados como hierarquias. Um exército consiste de diversas divisões; uma divisão é um conjunto de brigadas, e uma brigada consiste de pelotões, que podem ser divididos em esquadrões. Finalmente, um esquadrão é um pequeno grupo de soldados reais. Ordens são dadas do topo da hierarquia e são passadas abaixo para cada nível até cada soldado saber o que precisa ser feito.
 
